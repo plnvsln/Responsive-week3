@@ -102,4 +102,7 @@ p {
     text-align: center;
     margin: 0 20px;
   }
+  .navigation-links {
+    margin: 20px 10px;
+  }
 }
